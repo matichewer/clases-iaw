@@ -1,0 +1,16 @@
+h2{
+    color:midnightblue
+}
+
+.paises{
+    background-color:lightgray;
+    border:1px solid blue;
+}
+
+th,td{
+    border:1px dotted gray;
+}
+
+.col-capitales{
+    width:200px;
+}

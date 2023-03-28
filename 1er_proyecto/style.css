@@ -1,0 +1,15 @@
+buttom {
+    font-size: 100%;
+}
+
+h2 {
+    color: red;
+}
+
+p{
+    font-size: 50px;
+}
+
+p.color-verde {
+    color: green;
+}
